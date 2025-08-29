@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Enliven17
+# 👋 Hi there, I'm enliven
 
 <div align="center">
   <img src="https://readme-typing-svg.vercel.app/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+developer;Let's+code+together!&center=true&size=27">
