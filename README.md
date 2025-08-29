@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm enliven
+# 👋 Hi there, I'm Enliven17
 
 <div align="center">
   <img src="https://readme-typing-svg.vercel.app/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+developer;Let's+code+together!&center=true&size=27">
@@ -33,21 +33,18 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=enliven17&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=enliven17&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=enliven17&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enliven17&layout=donut&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🌟 Featured Projects
+## 🌟 Featured Project
 
 <div align="center">
-  <a href="https://github.com/enliven17/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enliven17&repo=project1&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/enliven17/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enliven17&repo=project2&theme=radical&hide_border=true" />
+  <a href="https://github.com/enliven17/flowswap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enliven17&repo=flowswap&theme=radical&hide_border=true" />
   </a>
 </div>
 
@@ -64,7 +61,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/enliven17">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   </a>
   <a href="https://twitter.com/enliven17">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
