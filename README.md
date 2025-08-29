@@ -37,7 +37,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enliven17&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enliven17&layout=donut&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🌟 Featured Projects
@@ -57,6 +57,40 @@ I'm a passionate developer who loves creating innovative solutions and exploring
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=enliven17&theme=radical&hide_border=true" alt="Activity Graph" />
 </div>
 
+## 🎨 Creative Corner
+
+<div align="center">
+  <h3>🚀 My Development Journey</h3>
+  <p>Every line of code is a step towards innovation</p>
+  
+  <h3>💡 Innovation Mindset</h3>
+  <p>Turning ideas into reality, one commit at a time</p>
+  
+  <h3>🌟 Code Philosophy</h3>
+  <p>Clean code is not just about functionality, it's about art</p>
+</div>
+
+## 🔮 What I'm Building
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h4>🎯 Current Focus</h4>
+        <p>Building scalable web applications</p>
+      </td>
+      <td align="center">
+        <h4>🚀 Next Big Thing</h4>
+        <p>AI-powered development tools</p>
+      </td>
+      <td align="center">
+        <h4>🌊 Future Vision</h4>
+        <p>Revolutionary user experiences</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -74,20 +108,13 @@ I'm a passionate developer who loves creating innovative solutions and exploring
   </a>
 </div>
 
-## 🎯 Goals for 2024
+## 🎭 Code Poetry
 
-- [ ] Contribute to open source projects
-- [ ] Learn new programming languages
-- [ ] Build more side projects
-- [ ] Improve coding skills
-- [ ] Help other developers
-
-## 💡 Fun Facts
-
-- 🌙 I often code late at night
-- ☕ Coffee is my best friend during coding sessions
-- 🎵 I listen to music while coding
-- 🚀 I love exploring new technologies
+<div align="center">
+  <blockquote>
+    <p><em>"In the world of code, every bug is a lesson, every error a teacher, and every success a story waiting to be told."</em></p>
+  </blockquote>
+</div>
 
 ---
 
