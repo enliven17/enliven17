@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Enliven17
+# 👋 Hi there, I'm enliven
 
 <div align="center">
   <img src="https://readme-typing-svg.vercel.app/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+developer;Let's+code+together!&center=true&size=27">
@@ -33,7 +33,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=enliven17&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enliven17&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=enliven17&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -57,40 +57,6 @@ I'm a passionate developer who loves creating innovative solutions and exploring
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=enliven17&theme=radical&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 🎨 Creative Corner
-
-<div align="center">
-  <h3>🚀 My Development Journey</h3>
-  <p>Every line of code is a step towards innovation</p>
-  
-  <h3>💡 Innovation Mindset</h3>
-  <p>Turning ideas into reality, one commit at a time</p>
-  
-  <h3>🌟 Code Philosophy</h3>
-  <p>Clean code is not just about functionality, it's about art</p>
-</div>
-
-## 🔮 What I'm Building
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h4>🎯 Current Focus</h4>
-        <p>Building scalable web applications</p>
-      </td>
-      <td align="center">
-        <h4>🚀 Next Big Thing</h4>
-        <p>AI-powered development tools</p>
-      </td>
-      <td align="center">
-        <h4>🌊 Future Vision</h4>
-        <p>Revolutionary user experiences</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -106,14 +72,6 @@ I'm a passionate developer who loves creating innovative solutions and exploring
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-## 🎭 Code Poetry
-
-<div align="center">
-  <blockquote>
-    <p><em>"In the world of code, every bug is a lesson, every error a teacher, and every success a story waiting to be told."</em></p>
-  </blockquote>
 </div>
 
 ---
