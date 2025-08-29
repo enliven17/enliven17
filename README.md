@@ -14,6 +14,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Move](https://img.shields.io/badge/-Move-00D4AA?style=flat-square&logo=move&logoColor=white)
+![Cadence](https://img.shields.io/badge/-Cadence-00D4AA?style=flat-square&logo=cadence&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
